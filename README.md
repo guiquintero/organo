@@ -1,4 +1,4 @@
-# Orcana
+# Organo
 
 Organa is a website where it is possible to separate the collaborators of each team of a company
 
